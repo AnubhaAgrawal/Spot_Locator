@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spot_Locator</string>
+    <string name="title_activity_restaurant">Map</string>
+    <string name="title_activity_schools">Map</string>
+    <string name="title_activity_atms">Map</string>
+    <string name="title_activity_hospitals">Map</string>
+</resources>
